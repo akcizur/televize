@@ -1,69 +1,53 @@
-#EXTM3U
-
-# === ČESKÉ – VŠEOBECNÉ ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/ct1.png" group-title="České - všeobecné",ČT1
-http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/ct2.png" group-title="České - všeobecné",ČT2
-http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/nova.png" group-title="České - všeobecné",TV Nova
-http://88.212.15.47/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/prima.png" group-title="České - všeobecné",Prima
-http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
-
-# === FILMY A SERIÁLY ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novacinema.png" group-title="Filmy a seriály",Nova Cinema
-http://88.212.15.47/live/nova_cinema_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/amc.png" group-title="Filmy a seriály",AMC
-http://88.212.15.47/live/test_amc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/axn.png" group-title="Filmy a seriály",AXN
-http://88.212.15.47/live/test_axn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/cinemax.png" group-title="Filmy a seriály",Cinemax
-http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/cinemax2.png" group-title="Filmy a seriály",Cinemax 2
-http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/filmplus.png" group-title="Filmy a seriály",Film+
-http://88.212.15.47/live/test_film_plus_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/filmbox.png" group-title="Filmy a seriály",Filmbox
-http://88.212.15.47/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/hbo.png" group-title="Filmy a seriály",HBO
-http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/hbo2.png" group-title="Filmy a seriály",HBO 2
-http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/hbo3.png" group-title="Filmy a seriály",HBO 3
-http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
-
-# === ZÁBAVA ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novafun.png" group-title="Zábava",Nova Fun
-http://88.212.15.47/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novagold.png" group-title="Zábava",Nova Gold
-http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/primacool.png" group-title="Zábava",Prima COOL
-http://88.212.15.47/live/prima_cool_cz_hevc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/primalove.png" group-title="Zábava",Prima LOVE
-http://88.212.15.47/live/test_prima_love_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/primashow.png" group-title="Zábava",Prima Show
-http://88.212.15.47/live/prima_show_25p/playlist.m3u8
-
-# === DOKUMENTY ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/primazoom.png" group-title="Dokumenty",Prima ZOOM
-http://88.212.15.47/live/test_prima_zoom_hevc/playlist.m3u8
-
-# === ZPRAVODAJSTVÍ ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/ct24.png" group-title="Zpravodajství",ČT24
-http://88.212.15.47/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/cnnprimanews.png" group-title="Zpravodajství",CNN Prima News
-http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
-
-# === SPORT ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/ctsport.png" group-title="Sport",ČT Sport
-http://88.212.15.47/live/test_ct_sport_hevc_25p/playlist.m3u8
-
-# === NOVA – OSTATNÍ ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novaaction.png" group-title="Nova - ostatní",Nova Action
-http://88.212.15.47/live/nova_action_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/novalady.png" group-title="Nova - ostatní",Nova Lady
-http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
-
-# === PRIMA – OSTATNÍ ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/refs/heads/master/640/primakrimi.png" group-title="Prima - ostatní",Prima KRIMI
-http://88.212.15.47/live/test_prima_krimi_hevc/playlist.m3u8
+#EXTM3U url-tvg="https://lemoncze.com"
+#EXTINF:-1 tvg-id="CT1.cz" tvg-name="ČT1" tvg-logo="https://githubusercontent.com" group-title="České všeobecné",ČT1
+http://88.212.15
+#EXTINF:-1 tvg-id="CT2.cz" tvg-name="ČT2" tvg-logo="https://githubusercontent.com" group-title="České všeobecné",ČT2
+http://88.212.15
+#EXTINF:-1 tvg-id="Nova.cz" tvg-name="TV Nova" tvg-logo="https://githubusercontent.com" group-title="České všeobecné",TV Nova
+http://88.212.15
+#EXTINF:-1 tvg-id="Prima.cz" tvg-name="Prima" tvg-logo="https://githubusercontent.com" group-title="České všeobecné",Prima
+http://88.212.15
+#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-name="Nova Cinema" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",Nova Cinema
+http://88.212.15
+#EXTINF:-1 tvg-id="AMC.cz" tvg-name="AMC" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",AMC
+http://88.212.15
+#EXTINF:-1 tvg-id="AXN.cz" tvg-name="AXN" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",AXN
+http://88.212.15
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",Cinemax
+http://88.212.15
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",Cinemax 2
+http://88.212.15
+#EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",Film+
+http://88.212.15
+#EXTINF:-1 tvg-id="Filmbox.cz" tvg-name="Filmbox" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",Filmbox
+http://88.212.15
+#EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",HBO
+http://88.212.15
+#EXTINF:-1 tvg-id="HBO2.cz" tvg-name="HBO 2" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",HBO 2
+http://88.212.15
+#EXTINF:-1 tvg-id="HBO3.cz" tvg-name="HBO 3" tvg-logo="https://githubusercontent.com" group-title="Filmy a seriály",HBO 3
+http://88.212.15
+#EXTINF:-1 tvg-id="NovaFun.cz" tvg-name="Nova Fun" tvg-logo="https://githubusercontent.com" group-title="Zábava",Nova Fun
+http://88.212.15
+#EXTINF:-1 tvg-id="NovaGold.cz" tvg-name="Nova Gold" tvg-logo="https://githubusercontent.com" group-title="Zábava",Nova Gold
+http://88.212.15
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-name="Prima COOL" tvg-logo="https://githubusercontent.com" group-title="Zábava",Prima COOL
+http://88.212.15
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-name="Prima LOVE" tvg-logo="https://githubusercontent.com" group-title="Zábava",Prima LOVE
+http://88.212.15
+#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-name="Prima Show" tvg-logo="https://githubusercontent.com" group-title="Zábava",Prima Show
+http://88.212.15
+#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-name="Prima ZOOM" tvg-logo="https://githubusercontent.com" group-title="Dokumenty",Prima ZOOM
+http://88.212.15
+#EXTINF:-1 tvg-id="CT24.cz" tvg-name="ČT24" tvg-logo="https://githubusercontent.com" group-title="Zpravodajství",ČT24
+http://88.212.15
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" tvg-logo="https://githubusercontent.com" group-title="Zpravodajství",CNN Prima News
+http://88.212.15
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-name="ČT Sport" tvg-logo="https://githubusercontent.com" group-title="Sport",ČT Sport
+http://88.212.15
+#EXTINF:-1 tvg-id="NovaAction.cz" tvg-name="Nova Action" tvg-logo="https://githubusercontent.com" group-title="Nova ostatní",Nova Action
+http://88.212.15
+#EXTINF:-1 tvg-id="NovaLady.cz" tvg-name="Nova Lady" tvg-logo="https://githubusercontent.com" group-title="Nova ostatní",Nova Lady
+http://88.212.15
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-name="Prima KRIMI" tvg-logo="https://githubusercontent.com" group-title="Prima ostatní",Prima KRIMI
+http://88.212.15
