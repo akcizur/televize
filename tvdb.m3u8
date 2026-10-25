@@ -1,0 +1,61 @@
+#EXTM3U
+
+# === ČESKÁ TELEVIZE ===
+#EXTINF:-1 tvg-name="ČT1" group-title="Česká televize",ČT1
+http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="ČT2" group-title="Česká televize",ČT2
+http://88.212.15.47/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="ČT24" group-title="Zpravodajství",ČT24
+http://88.212.15.47/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="ČT Sport" group-title="Sport",ČT Sport
+http://88.212.15.47/live/test_ct_sport_hevc_25p/playlist.m3u8
+
+# === NOVA ===
+#EXTINF:-1 tvg-name="TV Nova" group-title="Nova",TV Nova
+http://88.212.15.47/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova Cinema" group-title="Nova",Nova Cinema
+http://88.212.15.47/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova Fun" group-title="Nova",Nova Fun
+http://88.212.15.47/live/nova_fun_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova Action" group-title="Nova",Nova Action
+http://88.212.15.47/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova Gold" group-title="Nova",Nova Gold
+http://88.212.15.47/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova Lady" group-title="Nova",Nova Lady
+http://88.212.15.47/live/test_nova_lady_hevc_25p/playlist.m3u8
+
+# === PRIMA ===
+#EXTINF:-1 tvg-name="Prima" group-title="Prima",Prima
+http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima COOL" group-title="Prima",Prima COOL
+http://88.212.15.47/live/prima_cool_cz_hevc/index.m3u8
+#EXTINF:-1 tvg-name="Prima KRIMI" group-title="Prima",Prima KRIMI
+http://88.212.15.47/live/test_prima_krimi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima LOVE" group-title="Prima",Prima LOVE
+http://88.212.15.47/live/test_prima_love_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima ZOOM" group-title="Prima",Prima ZOOM
+http://88.212.15.47/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Prima Show" group-title="Prima",Prima Show
+http://88.212.15.47/live/prima_show_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Prima News" group-title="Zpravodajství",CNN Prima News
+http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
+
+# === FILMOVÉ KANÁLY ===
+#EXTINF:-1 tvg-name="HBO" group-title="Filmy",HBO
+http://88.212.15.47/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO 2" group-title="Filmy",HBO 2
+http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO 3" group-title="Filmy",HBO 3
+http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax" group-title="Filmy",Cinemax
+http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax 2" group-title="Filmy",Cinemax 2
+http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC" group-title="Filmy",AMC
+http://88.212.15.47/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="AXN" group-title="Filmy",AXN
+http://88.212.15.47/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-name="Film+" group-title="Filmy",Film+
+http://88.212.15.47/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmbox" group-title="Filmy",Filmbox
+http://88.212.15.47/live/test_filmbox/playlist.m3u8
