@@ -1,1 +1,2 @@
-# televize
+User-agent: *
+Disallow: /
